@@ -41,7 +41,7 @@ The most challenging aspect was understanding the logic and communication betwee
 Data binding, especially when implementing additional user interactions like delete, edit, and status change, proved to be another significant hurdle. Ensuring proper view updates required careful binding between user input, the task sheet view, and the task view model. Extensive debugging with print logs was necessary to achieve functionality.
 
 **Resources**
-
+* **Code Template:** https://github.com/sosper30/EEP523-Sp24/tree/main/HW1Template
 * **General Debugging:** Gemini ([https://www.wired.com/story/how-to-use-google-gemini-ai-bard-chatbot/](https://www.wired.com/story/how-to-use-google-gemini-ai-bard-chatbot/))
 * **Understanding Kotlin Drawable:** [https://developer.android.com/reference/kotlin/android/graphics/drawable/Drawable](https://developer.android.com/reference/kotlin/android/graphics/drawable/Drawable)
 * **Icon Design:**
