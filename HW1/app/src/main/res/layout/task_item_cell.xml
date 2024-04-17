@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- task_item_cell.xml: Defines how each task item should look in the list.
+     Getting this right is key for a usable interface. Each element must be placed thoughtfully. -->
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <!-- CheckBox for indicating the task as complete or pending. -->
+    <CheckBox
+        android:id="@+id/cbTaskDone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        />
+
+    <!-- TextView for displaying the task title.
+         DO NOT underestimate the importance of this view. It’s what the user sees first for each task. -->
+    <TextView
+        android:id="@+id/tvTaskTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:layout_toEndOf="@+id/cbTaskDone"
+        android:layout_centerVertical="true"
+         />
+
+    <!-- TextView for displaying the task time deadline. -->
+    <TextView
+        android:id="@+id/tvTaskTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:layout_toStartOf="@+id/ivTaskDelete"
+        android:layout_marginEnd="20dp"
+        android:layout_centerVertical="true"
+         />
+
+    <!-- ImageView to mark the task as done or to delete it.
+         This MUST be interactive. Implement the necessary logic in TaskItemAdapter.kt for user actions. -->
+    <ImageView
+        android:id="@+id/ivTaskDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_delete"
+        android:layout_marginEnd="12dp"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:contentDescription="@string/delete_description" />
+
+</RelativeLayout>

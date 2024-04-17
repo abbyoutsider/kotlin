@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HW1-Template</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Description (optional)</string>
+    <string name="save">SAVE</string>
+    <string name="toolbar">To Do List</string>
+    <string name="add_new_task">Add a New Task</string>
+    <string name="task_deadline">SELECT TIME</string>
+    <string name="delete_description">Delete an Existing Task</string>
+
+</resources>
