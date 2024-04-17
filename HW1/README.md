@@ -24,6 +24,12 @@ Users can:
 
 If there are more than zero tasks (pending or complete), the total count will be displayed next to the app header (e.g., "To Do List (5)").
 
+**Demo**
+
+
+https://github.com/abbyoutsider/kotlin/assets/61987568/394f772d-d378-4acc-acca-0a88af87e1d5
+
+
 **Development Time**
 
 While I don't have an exact record of the hours spent, I dedicated approximately four days to complete this project.
