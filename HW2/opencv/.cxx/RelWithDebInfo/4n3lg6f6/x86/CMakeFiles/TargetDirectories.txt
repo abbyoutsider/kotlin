@@ -1,0 +1,3 @@
+/Users/abbyoutsider/Projects/kotlin/EEP523-Sp24-main/FaceSwap-main/opencv/.cxx/RelWithDebInfo/4n3lg6f6/x86/CMakeFiles/opencv_jni_shared.dir
+/Users/abbyoutsider/Projects/kotlin/EEP523-Sp24-main/FaceSwap-main/opencv/.cxx/RelWithDebInfo/4n3lg6f6/x86/CMakeFiles/edit_cache.dir
+/Users/abbyoutsider/Projects/kotlin/EEP523-Sp24-main/FaceSwap-main/opencv/.cxx/RelWithDebInfo/4n3lg6f6/x86/CMakeFiles/rebuild_cache.dir
