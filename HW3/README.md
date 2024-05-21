@@ -13,7 +13,8 @@ This project is an Android application that provides weather information to the 
 * **Error Handling:** The app handles various error scenarios, such as the city not being found, the device not having an internet connection, or the app not having location permissions. It informs the user about these errors via toast messages.
 
 **Figma**
-https://www.figma.com/design/bCwAN58pvo7ujEF4b9e5o2/Weather?node-id=0%3A1&t=vfSlESxo8JmslWdx-1
+Prototype: https://www.figma.com/proto/bCwAN58pvo7ujEF4b9e5o2/Weather?node-id=1-4&t=s3wNUNLuyikxDaJ3-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A4
+Components: https://www.figma.com/design/bCwAN58pvo7ujEF4b9e5o2/Weather?node-id=0%3A1&t=vfSlESxo8JmslWdx-1
 
 **Demo**
 https://drive.google.com/file/d/17fpo4Sd3dEv9cOEsPpzWCQfPprDjeJeE/view?usp=drive_link
