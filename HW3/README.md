@@ -12,8 +12,11 @@ This project is an Android application that provides weather information to the 
 * **Updating the UI:** The app parses the JSON response and updates the UI with the fetched weather data. It displays various weather details like temperature, pressure, humidity, sunrise and sunset times, and more.
 * **Error Handling:** The app handles various error scenarios, such as the city not being found, the device not having an internet connection, or the app not having location permissions. It informs the user about these errors via toast messages.
 
+**Figma**
+https://www.figma.com/design/bCwAN58pvo7ujEF4b9e5o2/Weather?node-id=0%3A1&t=vfSlESxo8JmslWdx-1
+
 **Demo**
-https://drive.google.com/file/d/17cLqGVHZQKXaO7lPFDBt4wSyDf0mlR_5/view?usp=drive_link
+https://drive.google.com/file/d/17fpo4Sd3dEv9cOEsPpzWCQfPprDjeJeE/view?usp=drive_link
 
 **Development Time**
 
