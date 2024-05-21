@@ -39,7 +39,7 @@ import com.google.android.gms.location.LocationServices
 class MainActivity : AppCompatActivity() {
 
     // API key for OpenWeatherMap
-    private val apikey= "7aba958c9ecd0569b23907314730252b"
+    private val apikey= ""//Replace with your own apikey
 
     private lateinit var fusedLocationClient: FusedLocationProviderClient
 
