@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HW3</string>
+    <string name="icon_for_the_weather_condition">Icon for the Weather Condition</string>
+    <string name="city">City</string>
+    <string name="last_update_time">Last Update Time</string>
+    <string name="weather_conditions">Weather Conditions</string>
+    <string name="enter_a_city_name">Enter a city name</string>
+    <string name="search">Search</string>
+    <string name="current_temperature">Current Temperature</string>
+    <string name="min_temperature">Min Temperature</string>
+    <string name="max_temperature">Max Temperature</string>
+    <string name="sunrise_time">Sunrise Time</string>
+    <string name="sunset_time">Sunset Time</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="humidity">Humidity</string>
+</resources>
